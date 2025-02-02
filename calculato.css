@@ -1,0 +1,132 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+/* html{
+    position: relative;
+    min-height: 100%;
+} */
+body{
+    background-color: var(--backgrount);
+    color: brown;
+    font-family: 'Roboto',sans-serif;
+    line-height: 1.6;
+    margin-bottom: 100px;
+}
+.mainf{
+    padding-left: 500px;
+    padding-top: 100px;
+/* background-color: burlywood; */
+background-image: url(https://images.pexels.com/photos/1323550/pexels-photo-1323550.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+padding-bottom: 210px;
+
+
+}
+.heading{
+    margin-left: 80px;
+    margin-top: -30px;
+    font-size: 50px;
+}
+.main{
+    border: 4px solid black;
+    border-radius: 10px;
+    position: relative;
+    height: 380px;
+    width: 429px;
+    margin-left: -5px;
+ 
+}
+
+#screen{
+    width: 41%;
+    margin: 10px 0;
+    box-sizing: border-box;
+    border-color: brown;
+    padding: 20px 29px;
+
+  border-radius: 5px;
+  /* margin-bottom: 20px; */
+  background-color: var(--screen);
+  text-align: right;
+  word-wrap: break-word;
+  word-break: break-all;
+
+}
+.btn{
+    border: none;
+    color: inherit;
+    font-family: inherit;
+    font-size: inherit;
+    cursor: pointer;
+    outline: none;
+}
+
+
+
+/* .mainf input{
+    padding: 20px 20px 70px 230px;
+    border: 3px solid black;
+    background-color: aqua;
+      
+    
+    background-color: black;
+} */
+.btn{
+    padding: 20px 40px;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: 5px;
+}
+.ac{
+    padding: 22px 38px;
+    /* margin-bottom: 2px; */
+    border-radius: 10px;
+    border: 1px solid black;
+    background-color: brown;
+    margin-left: 5px;
+}
+.clear{
+    padding: 20px 35px;
+    border-radius: 10px;
+    background-color: burlywood;
+}
+.subtraction{
+    padding: 20px 42px;
+    border-radius: 10px;
+    
+}
+.solve{
+    padding: 60px 40px;
+    margin-top: 30px;
+    margin-left: 5px;
+    border-radius: 10px;
+    position: relative;
+    top: -25px;
+
+
+}
+.btnn{
+    position: relative;
+    top: -62px;
+}
+.btnnn{
+    position: relative;
+    top: -95px;
+    font-size: 20px;
+    
+}
+.bttt{
+    padding: 20px 40px;
+    
+}
+.btt{
+    padding: 20px 42px;
+}
+.bt{
+    padding: 20px 32px;
+    
+}
+.addition{
+    padding: 20px 40px;
+}
