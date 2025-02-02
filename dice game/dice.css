@@ -1,0 +1,83 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+ .container{ 
+    border: 3px solid black;
+    background-color: brown;
+    
+ }
+.container h1{
+    
+    
+    text-align: center;
+    position: relative;
+    bottom: -250px;
+}
+.box{
+    display: flex;
+    
+
+    
+}
+
+.box div img{
+    border: 1px solid black;
+    width: 300px;
+    margin: 20px;
+    margin-left: 300px;
+    margin-top: 100px;
+    /* background-color: black */
+    background-image: url(https://images.pexels.com/photos/2184346/pexels-photo-2184346.jpeg?auto=compress&cs=tinysrgb&w=600);
+    background-size: 500px;
+    background-repeat: no-repeat;
+
+    
+}
+.dice p{
+    font-size: 30px;
+    font-weight: 100;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 300px;  
+    position: relative;
+    bottom: -70px; 
+}
+.dice1 p{
+    font-size: 30px;
+    font-weight: 100;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 300px;  
+    position: relative;
+    bottom: -70px; 
+}
+.containeer button{
+    font-size: 30px;
+    font-weight: 100;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 650px;
+    margin-top: 30px;
+    border-radius: 10px;
+    color: brown;
+    background-color: black;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+.head{
+    text-align: center;
+    /* margin: 20px; */
+    font-size: 30px;
+    font-family: Brush Script MT, Brush Script Std, cursive;   
+/* border: 1px solid black;
+background-color: wheat; */
+}
+.my{
+    font-size: 90px;
+}
+.container p{
+    text-align: center;
+    
+    font-size: 30px;
+    /* font-family: Brush Script MT, Brush Script Std, cursive;    */
+}
+
